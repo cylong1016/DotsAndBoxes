@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="External JREs/jl1.0.jar"/>
+	<classpathentry kind="lib" path="External JREs/mp3spi1.9.5.jar"/>
+	<classpathentry kind="lib" path="External JREs/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="External JREs/jorbis-0.0.17.jar"/>
+	<classpathentry kind="lib" path="External JREs/tritonus_jorbis-0.3.6.jar"/>
+	<classpathentry kind="lib" path="External JREs/com.sun.awt.AWTUtilities.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
